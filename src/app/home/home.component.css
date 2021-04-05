@@ -1,0 +1,12 @@
+Label{
+    background-color: rgb(113, 128, 104);
+    text-align: right;
+}
+Button{
+  margin-bottom: 10;
+  border-radius: 50;
+  border-width: 5;
+}
+.op-button{
+    background-color: #f88c20;
+}
